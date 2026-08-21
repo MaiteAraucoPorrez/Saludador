@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Maite Arauco",
+    "commit": {
+      "date": "2026-08-21T08:09:32.000Z",
+      "message": "feat: saludar con hola en el html",
+      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 44,
+      "additions": 4,
+      "deletions": 40,
+      "date": "2026-08-21"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  }
+]
