@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "26e6c03cece225825b108f9bbc59b9abc717b772",
     "author": "Maite Arauco",
     "commit": {
       "date": "2026-08-21T08:09:32.000Z",
       "message": "feat: saludar con hola en el html",
-      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/HEAD"
+      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/26e6c03cece225825b108f9bbc59b9abc717b772"
     },
     "stats": {
       "total": 44,
@@ -17,5 +17,24 @@
     "test_count": 0,
     "failed_tests": 0,
     "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maite Arauco",
+    "commit": {
+      "date": "2026-08-21T08:33:08.000Z",
+      "message": "feat: agregar saludo personalizado con nombre del usuario",
+      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 36,
+      "additions": 34,
+      "deletions": 2,
+      "date": "2026-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
