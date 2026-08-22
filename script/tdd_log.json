@@ -14,9 +14,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "72c92c9db6aaea664ab573556671815e0aedb725",
     "commitName": "feat: agregar saludo personalizado con nombre del usuario",
     "commitTimestamp": 1787301189669,
     "testId": 1
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787385054442,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1787385079898,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: saludar de acuerdo a la hora actual",
+    "commitTimestamp": 1787385335016,
+    "testId": 2
   }
 ]

@@ -19,12 +19,12 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "72c92c9db6aaea664ab573556671815e0aedb725",
     "author": "Maite Arauco",
     "commit": {
       "date": "2026-08-21T08:33:08.000Z",
       "message": "feat: agregar saludo personalizado con nombre del usuario",
-      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/HEAD"
+      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/72c92c9db6aaea664ab573556671815e0aedb725"
     },
     "stats": {
       "total": 36,
@@ -34,6 +34,25 @@
     },
     "coverage": 100,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Maite Arauco",
+    "commit": {
+      "date": "2026-08-22T07:55:32.000Z",
+      "message": "feat: saludar de acuerdo a la hora actual",
+      "url": "https://github.com/MaiteAraucoPorrez/Saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 21,
+      "deletions": 6,
+      "date": "2026-08-22"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
